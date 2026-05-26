@@ -359,26 +359,26 @@ export type SpellCard = (typeof spellCards)[number];
 export const team = [
   {
     name: "Joshua",
-    role: "Head Programmer",
+    role: "Producer & Asst. Pixel Artist",
     asset: "/assets/team/joshua.png",
   },
-  { name: "Jap", role: "Game Pixel Artist", asset: "/assets/team/jap.png" },
-  { name: "Gio", role: "Head Pixel Artist", asset: "/assets/team/gio.png" },
+  { name: "Jap", role: "Music & Sound Producer", asset: "/assets/team/jap.png" },
+  { name: "Gio", role: "Head Programmer", asset: "/assets/team/gio.png" },
   {
     name: "Ran",
-    role: "Producer & Asst. Pixel Artist",
+    role: "Head Pixel Artist",
     asset: "/assets/team/ran.png",
   },
   {
     name: "Aori",
-    role: "Music & Sound Producer",
+    role: "Game Pixel Artist",
     asset: "/assets/team/aori.png",
   },
 ];
 
 export const techStack = [
   { name: "Godot", asset: "/assets/tech/godot.png" },
-  { name: "Aseprite", asset: "/assets/tech/aseprite.png" },
+  { name: "Aseprite", asset: "/assets/tech/aesprite.png" },
   { name: "Piskel", asset: "/assets/tech/piskel.png" },
   { name: "FL Studio", asset: "/assets/tech/fl-studio.png" },
   { name: "Audacity", asset: "/assets/tech/audacity.png" },
