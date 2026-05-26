@@ -39,3 +39,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# pitch deck extraction (local only)
+.pptx-extract/
+.pptx-extract.zip
